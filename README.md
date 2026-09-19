@@ -18,4 +18,4 @@ An interactive Power BI dashboard designed to analyze employee turnover, identif
 ---
 
 ## 🔗 Live Interactive Dashboard
-👉 [Click Here to View the Interactive Power BI Report](PASTE_YOUR_POWER_BI_PUBLIC_LINK_HERE)
+👉 [View Interactive Power BI Dashboard](https://github.com/sh3lan2/HR-Analytics-Attrition-PowerBI)
